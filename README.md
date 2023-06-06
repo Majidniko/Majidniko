@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Majidniko
-- 👀 I’m interested in Labview 
+- 👀 I’m interested in Java , Python , C#
 - 🌱 I’m currently learning Java advanced
 - 💞️ I’m looking to collaborate on some papers
 - 📫 You can reach me by my email address
